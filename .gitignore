@@ -1,2 +1,4 @@
+src/assets/user_audio
+src/public/ai_audio
 node_modules
 .env
